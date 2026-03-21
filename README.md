@@ -1,5 +1,5 @@
 # AutoAI
-IBM watsonx Assistant is an AI-powered conversational chatbot platform that helps organizations build intelligent virtual assistants. It uses Natural Language Processing (NLP) to understand user queries and provide accurate responses in real time.
+IBM Watson Assistant is an AI-powered conversational chatbot platform that helps organizations build intelligent virtual assistants. It uses Natural Language Processing (NLP) to understand user queries and provide accurate responses in real time.
 
 **Key Features**
 
