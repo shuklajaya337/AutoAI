@@ -1,10 +1,20 @@
-# 🤖 AutoAI – Automated Machine Learning with IBM Watson Studio
+# 🤖 Automated Machine Learning using IBM AutoAI
 
 [![IBM Watson](https://img.shields.io/badge/IBM-Watson%20Studio-blue?logo=ibm)](https://www.ibm.com/cloud/watson-studio)
 [![AutoAI](https://img.shields.io/badge/AutoAI-Enabled-brightgreen)](https://www.ibm.com/cloud/watson-studio/autoai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> Use **IBM Watson Studio's AutoAI** to automatically analyze a dataset and build the best-performing machine learning model — with zero manual coding. AutoAI handles data preprocessing, feature engineering, algorithm selection, and hyperparameter optimization automatically.
+> Built a machine learning model using **IBM Watson Studio AutoAI** to automate the end-to-end ML pipeline — from data preprocessing to model deployment — with minimal manual effort.
+
+---
+
+## 📝 Project Summary
+
+- ✅ Built a machine learning model using **IBM Watson Studio AutoAI** to automate the end-to-end ML pipeline
+- ✅ Performed automated **data preprocessing**, **feature engineering**, and **model selection**
+- ✅ Compared multiple algorithms and selected the best-performing model based on evaluation metrics
+- ✅ Generated **optimized pipelines** and deployed the model using **AutoAI API**
+- ✅ Utilized **Python integration** for model testing and predictions
 
 ---
 
