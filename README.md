@@ -158,7 +158,3 @@ print(response.json())
 🔗 [GitHub](https://github.com/shuklajaya337)
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
